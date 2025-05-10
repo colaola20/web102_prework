@@ -22,9 +22,9 @@ body {
 .stats-container {
     display: flex;
     align-items: center;
+    flex-direction: row; /* Aligns items in a row */
     justify-content: space-between; /* Ensures even spacing between items */
     gap: 20px; /* Adds spacing between child elements */
-    flex-wrap: wrap; /* Makes it responsive by wrapping items on smaller screens */
     padding: 2%; /* Adds padding around the container */
     background-color: rgb(40, 58, 75); /* Optional: Adds a subtle background color */
     border-radius: 7px; /* Optional: Rounds the container edges */
@@ -37,9 +37,6 @@ body {
     box-shadow: 0 0 30px lightblue;
 }
 
-/* .stats-container:hover {
-    background-color: red;
-} */
 
 .stats-card {
     background-color: lightblue;
