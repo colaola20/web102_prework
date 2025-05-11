@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://github.com/user-attachments/assets/01e84cd6-c03a-4481-b954-62d9bf70b0d3
+
+https://github.com/user-attachments/assets/56a587f8-0893-4ba3-aa3e-a6e1d36c754f
+
 
 
 ## Notes
